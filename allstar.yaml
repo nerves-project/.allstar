@@ -1,3 +1,2 @@
 optConfig:
-  optInRepos:
-    - erlinit
+  optOutStrategy: true
